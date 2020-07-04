@@ -13,7 +13,7 @@ Open CMD and execute the following:
  3. npm i -g ganache-cli
  4. npm install 
 
-# Optimistic Test
+# Test
 The script file \jsTests\multiRangeProofTest.js demonstrates the aggregate range proof generation and verification.
 To test the smart contract:
 
